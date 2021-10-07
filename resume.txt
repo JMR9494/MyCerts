@@ -1,0 +1,19 @@
+Update* I am Currently perusing AWS Certified Developer Associate Certificate:
+
+I have an hands on experience using HTML & SCSS to make magnificent websites from the ground up & use JavaScript within these sites to make everything interactive and pop to life. I have Certificates from Harvard-X Cs50 Web Programming with JavaScript.
+My Website: PortablePowerWasher.com
+Video Presentation: https://vimeo.com/494556281
+
+Programming Languages I'm Familiar with:
+:Git
+:MySQLWorkBench
+:Javascript
+:JQuery
+:Ajax
+:React.js
+:Node.js
+:HTML5
+:SCSS
+:REST API
+:SEO
+:Json
